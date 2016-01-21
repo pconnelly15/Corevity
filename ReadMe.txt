@@ -1,3 +1,3 @@
-Corevity Inc 2015
-hello@corevity.com
+Corevity Inc 2016
+pat@corevity.com
 
