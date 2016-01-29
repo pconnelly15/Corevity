@@ -1,3 +1,0 @@
-Corevity
-
-pat@corevity.com
