@@ -1272,8 +1272,8 @@ select {
   margin-bottom: 60px;
 }
 .apps-section .phone-holder {
-  width: 324px;
-  height: 651px;
+  width: 349px;
+  height: 400px;
   display: block;
   background: url('../images/mobile/iphone.png') no-repeat left top;
   position: relative;
@@ -2077,13 +2077,13 @@ select {
 }
 /* ======= About Page ======= */
 .story-section {
-  padding-top: 90px;
+  padding-top: 2px;
   position: relative;
   z-index: 10;
 }
 .story-section .title {
   font-size: 36px;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
   margin-top: 0;
   color: #fff;
   font-weight: 300;
@@ -3267,7 +3267,7 @@ select {
     padding-top: 80px;
   }
   .story-section {
-    padding-top: 90px;
+    padding-top: 10px;
   }
   .contact-section {
     padding-top: 45px;
